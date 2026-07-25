@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Sheetal-x-Sharma/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
+| [3536-maximum-product-of-two-digits](https://github.com/Sheetal-x-Sharma/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sheetal-x-Sharma/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Sheetal-x-Sharma/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
